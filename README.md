@@ -1,2 +1,2 @@
 # MVTOR
-This is the official code for ``MVTOR: Multimodal Semantics and Visual Temporal Over-Regularity for Generalizable AI-Generated Video Detection''
+This is the official code for ``MTOR: Generalizable AI-Generated Video Detection with Multimodal Semantics and Temporal Over-Regularity''
